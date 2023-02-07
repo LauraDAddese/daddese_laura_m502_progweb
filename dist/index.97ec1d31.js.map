@@ -1,0 +1,1 @@
+{"mappings":"AAMAA,QAAQC,IAAI","sources":["src/app.js"],"sourcesContent":["/*const fetchUsers = async () => {\r\n    const users = await fetch(`https://randomuser.me/api/?results=20`);\r\n    console.log(users)\r\n}\r\nfetchUsers();\r\n*/\r\nconsole.log(\"ok\")\r\n"],"names":["console","log"],"version":3,"file":"index.97ec1d31.js.map"}
